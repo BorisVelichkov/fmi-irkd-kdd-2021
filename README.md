@@ -1,6 +1,6 @@
 # Knowledge Discovery in Data
 
-### A course at the master's program in *Information Retrieval and Knowledge Discovery* at the *Faculty of Mathematics and Informatics* at *Sofia University*
+A course at the master's program in *Information Retrieval and Knowledge Discovery* at the *Faculty of Mathematics and Informatics* at *Sofia University*
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
